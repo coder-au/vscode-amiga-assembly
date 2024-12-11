@@ -289,6 +289,7 @@ export class VASMCompiler {
         if (vlinkConf.enabled) {
           if (logEmitter) {
             logEmitter.fire("Linking_________________________________________\r\n");
+            logEmitter.fire("Linking DAN sAN MAN DAN DAN DAN DAN DAN DAN DAN \r\n");
           }
           // check if the directory for the executable exists
           const exeFile = buildDir.getRelativeFile(vlinkConf.exefilename);
