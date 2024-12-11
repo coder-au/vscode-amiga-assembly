@@ -222,7 +222,7 @@
 |DFF00A|[JOY0DAT](hardware/DFF00A_JOY0DAT.md)|Joystick-mouse 0 data (left vert, horiz)|
 |DFF00C|[JOY1DAT](hardware/DFF00C_JOY1DAT.md)|Joystick-mouse 1 data (right vert, horiz)|
 |DFF00E|[CLXDAT](hardware/DFF00E_CLXDAT.md)|Collision detection register (read and clear)|
-|DFF010|[ADKCONR](hardware/DFF010_ADKCONR.md)|Audio, Disk, UART Control Read|
+|DFF010|[adkconr](hardware/DFF010_adkconr.md)|Audio, Disk, UART Control Read|
 |DFF012|[POT0DAT](hardware/DFF012_POT0DAT.md)|Pot counter data left pair (vert, horiz)|
 |DFF014|[POT1DAT](hardware/DFF014_POT1DAT.md)|Pot counter data right pair (vert, horiz)|
 |DFF016|[POTINP](hardware/DFF016_POTINP.md)|Pot pin data read|
